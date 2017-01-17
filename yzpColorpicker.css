@@ -1,0 +1,50 @@
+.yzpColorpicker{
+  margin:10px 0;
+}
+.yzpColorpicker label {
+  color: #646464;
+  font-weight: 900;
+  margin-right: 5px; }
+.yzpColorpicker button {
+  color: white;
+  text-align: right;
+  width: 150px;
+  background: linear-gradient(to left,rgb(100,200,200),rgb(100,250,200));
+  border-radius: 5px;
+  padding: 5px; }
+.yzpColorpicker span i {
+    color: #646464; }
+.yzpColorbox{
+      position: fixed;
+      top:0;
+      bottom: 0;
+      left:0;
+      right:0;
+      margin: auto;
+      height: 600px;
+      width: 560px;
+      background-color: white;
+      text-align: right;
+      padding-right: 2px;
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+.yzpColorbox input{
+      width:100px;
+      padding: 5px;
+      border-radius: 5px;
+      background-color: rgb(50,50,50);
+      color: white;
+    }
+
+.yzpColorbox label{
+      color: rgb(50,50,50);
+    }
+.yzpColorbox button{
+      background: white;
+      padding: 10px;
+      border: none;
+      color: rgb(50,50,50);
+      cursor: pointer;
+    }
